@@ -1,0 +1,230 @@
+In the United States, bankruptcy is governed by federal law, commonly referred to as the "Bankruptcy Code" ("Code"). The United States Constitution (Article 1, Section 8, Clause 4) authorizes Congress to enact "uniform Laws on the subject of Bankruptcies throughout the United States". Congress has exercised this authority several times since 1801, including through adoption of the Bankruptcy Reform Act of 1978, as amended, codified in Title 11 of the United States Code and the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA).
+
+Some laws relevant to bankruptcy are found in other parts of the United States Code. For example, bankruptcy crimes are found in Title 18 of the United States Code (Crimes). Tax implications of bankruptcy are found in Title 26 of the United States Code (Internal Revenue Code), and the creation and jurisdiction of bankruptcy courts are found in Title 28 of the United States Code (Judiciary and Judicial procedure).
+
+Bankruptcy cases are filed in United States Bankruptcy Court (units[1] of the United States District Courts), and federal law governs procedure in bankruptcy cases. However, state laws are often applied to determine how bankruptcy affects the property rights of debtors. For example, laws governing the validity of liens or rules protecting certain property from creditors (known as exemptions), may derive from state law or federal law. Because state law plays a major role in many bankruptcy cases, it is often unwise to generalize some bankruptcy issues across state lines.
+
+
+Contents
+1	History
+2	Chapters of the Bankruptcy Code
+2.1	Chapter 7: Liquidation
+2.2	Chapter 9: Reorganization for municipalities
+2.3	Chapters 11, 12, and 13: Reorganization
+2.4	Chapter 15: Cross-border insolvency
+3	Features of U.S. bankruptcy law
+3.1	Voluntary versus involuntary bankruptcy
+3.2	The estate
+3.3	Bankruptcy court
+3.4	United States Trustee
+3.5	The automatic stay
+3.6	Avoidance actions
+3.6.1	Preferences
+3.6.2	Fraudulent transfer
+3.6.3	Non-bankruptcy law creditor – "strong arm"
+3.7	The creditors
+3.8	Executory contracts
+3.9	Committees
+3.10	Exempt property
+3.11	Spendthrift trusts
+3.12	Redemption
+3.13	Debtor's discharge
+3.14	Entities that cannot be debtors
+3.15	Status of certain defined benefit pension plan liabilities in bankruptcy
+4	Bankruptcy costs
+5	Bankruptcy crimes
+6	Bankruptcy and federalism
+7	Social and economic factors
+7.1	Personal bankruptcy
+7.2	Corporate bankruptcy
+8	Largest bankruptcies
+9	See also
+10	References
+11	Further reading
+12	External links
+History
+Main article: History of bankruptcy law in the United States
+Before 1898, there were several short-lived federal bankruptcy laws in the U.S. The first was the Bankruptcy Act of 1800[2] which was repealed in 1803 and followed by the act of 1841,[3] which was repealed in 1843, and then the act of 1867,[4] which was amended in 1874[5] and repealed in 1878.
+
+The first modern Bankruptcy Act in America, sometimes called the "Nelson Act",[6] was initially entered into force in 1898. The current Bankruptcy Code was enacted in 1978 by § 101 of the Bankruptcy Reform Act of 1978,[7] and generally became effective on October 1, 1979. The current code completely replaced the former Bankruptcy Act, the "Chandler Act" of 1938.[8] The Chandler Act gave unprecedented authority to the Securities and Exchange Commission in the administration of bankruptcy filings. The current code has been amended numerous times since 1978. See also the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005.
+
+Chapters of the Bankruptcy Code
+Entities seeking relief under the Bankruptcy Code may file a petition for relief under a number of different chapters of the Code, depending on circumstances. Title 11 contains nine chapters, six of which provide for the filing of a petition. The other three chapters provide rules governing bankruptcy cases in general. A case is typically referred to by the chapter under which the petition is filed. These chapters are described below.
+
+Chapter 7: Liquidation
+Main article: Chapter 7, Title 11, United States Code
+Liquidation under a Chapter 7 filing is the most common form of bankruptcy. Liquidation involves the appointment of a trustee who collects the non-exempt property of the debtor, sells it and distributes the proceeds to the creditors. Because all states allow for debtors to keep essential property, Chapter 7 cases are often "no asset" cases, meaning that the bankrupt estate has no non-exempt assets to fund a distribution to creditors.[9]
+
+Chapter 7 bankruptcy remains on a bankruptcy filer's credit report for 10 years.
+
+United States bankruptcy law significantly changed in 2005 with the passage of Bankruptcy Abuse Prevention and Consumer Protection Act (US) —- BAPCPA, which made it more difficult for consumer debtors to file bankruptcy in general and Chapter 7 in particular.
+
+Advocates of BAPCPA claimed that its passage would reduce losses to creditors such as credit card companies, and that those creditors would then pass on the savings to other borrowers in the form of lower interest rates. Critics assert that these claims turned out to be false, observing that although credit card company losses decreased after passage of the Act, prices charged to customers increased, and credit card company profits increased.
+
+Chapter 9: Reorganization for municipalities
+Main article: Chapter 9, Title 11, United States Code
+A Chapter 9 bankruptcy is available only to municipalities. Chapter 9 is a form of reorganization, not liquidation. Notable examples of municipal bankruptcies include that of Orange County, California (1994 to 1996) and the bankruptcy of the city of Detroit, Michigan in 2013.
+
+Chapters 11, 12, and 13: Reorganization
+Main articles: Chapter 11, Title 11, United States Code; Chapter 12, Title 11, United States Code; and Chapter 13, Title 11, United States Code
+
+A few volumes of Title 11 (Bankruptcy) of the United States Code Annotated (U.S.C.A.) at a law library.
+Bankruptcy under Chapter 11, Chapter 12, or Chapter 13 is more complex reorganization and involves allowing the debtor to keep some or all of his or her property and to use future earnings to pay off creditors. Consumers usually file chapter 7 or chapter 13. Chapter 11 filings by individuals are allowed, but are rare. Chapter 12 is similar to Chapter 13 but is available only to "family farmers" and "family fisherman" in certain situations. Chapter 12 generally has more generous terms for debtors than a comparable Chapter 13 case would have available. As recently as mid-2004 Chapter 12 was scheduled to expire, but in late 2004 it was renewed and made permanent.
+
+Chapter 15: Cross-border insolvency
+Main article: Chapter 15, Title 11, United States Code
+The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 added Chapter 15 (as a replacement for section 304) and deals with cross-border insolvency: foreign companies with U.S. debts.
+
+Features of U.S. bankruptcy law
+Voluntary versus involuntary bankruptcy
+As a threshold matter, bankruptcy cases are either voluntary or involuntary. In voluntary bankruptcy cases, which account for the overwhelming majority of cases, debtors petition the bankruptcy court. With involuntary bankruptcy, creditors, rather than the debtor, file the petition in bankruptcy. Involuntary petitions are rare, however, and are occasionally used in business settings to force a company into bankruptcy so that creditors can enforce their rights.
+
+The estate
+Except in Chapter 9 cases, commencement of a bankruptcy case creates an "estate". Generally, the debtor's creditors must look to the assets of the estate for satisfaction of their claims. The estate consists of all property interests of the debtor at the time of case commencement, subject to certain exclusions and exemptions.[10] In the case of a married person in a community property state, the estate may include certain community property interests of the debtor's spouse even if the spouse has not filed bankruptcy.[11] The estate may also include other items, including but not limited to property acquired by will or inheritance within 180 days after case commencement.[12]
+
+For federal income tax purposes, the bankruptcy estate of an individual in a Chapter 7 or 11 case is a separate taxable entity from the debtor.[13] The bankruptcy estate of a corporation, partnership, or other collective entity, or the estate of an individual in Chapters 12 or 13, is not a separate taxable entity from the debtor.[14]
+
+Bankruptcy court
+Main article: United States bankruptcy court
+In 1982, in the case of Northern Pipeline Co. v. Marathon Pipe Line Co.,[15] the United States Supreme Court held that certain provisions of the law relating to Article I bankruptcy judges (who are not life-tenured "Article III" judges) are unconstitutional. Congress responded in 1984 with changes to remedy the constitutional defects. Under the revised law, bankruptcy judges in each judicial district constitute a "unit" of the applicable United States District Court.[16] Each judge is appointed for a term of 14 years by the United States Court of Appeals for the circuit in which the applicable district is located.[17]
+
+The United States District Courts have subject-matter jurisdiction over bankruptcy matters.[18] However, each such district court may, by order, "refer" bankruptcy matters to the Bankruptcy Court,[19] and most district courts have a standing "reference" order to that effect, so that all bankruptcy cases are handled by the Bankruptcy Court. In unusual circumstances, a district court may "withdraw the reference" (i.e., taking a particular case or proceeding within the case away from the bankruptcy court) and decide the matter itself.[20]
+
+Decisions of the bankruptcy court are generally appealable to the district court,[21] and then to the Court of Appeals. However, in a few jurisdictions a separate court called a Bankruptcy Appellate Panel (composed of bankruptcy judges) hears certain appeals from bankruptcy courts.[22]
+
+United States Trustee
+Main article: United States Trustee
+The United States Attorney General appoints a separate United States Trustee for each of twenty-one geographical regions for a five-year term. Each Trustee is removable from office by and works under the general supervision of the Attorney General.[23] The U.S. Trustees maintain regional offices that correspond with federal judicial districts and are administratively overseen by the Executive Office for United States Trustees in Washington, D.C. Each United States Trustee, an officer of the U.S. Department of Justice, is responsible for maintaining and supervising a panel of private trustees for chapter 7 bankruptcy cases.[24] The Trustee has other duties including the administration of most bankruptcy cases and trustees.[25] Under Section 307 of Title 11 of the U.S. Code, a U.S. Trustee "may raise and may appear and be heard on any issue in any case or proceeding" in bankruptcy except for filing a plan of reorganization in a chapter 11 case.[26]
+
+The automatic stay
+Main article: Automatic stay
+Bankruptcy Code § 362[27] imposes the automatic stay at the moment a bankruptcy petition is filed. The automatic stay generally prohibits the commencement, enforcement or appeal of actions and judgments, judicial or administrative, against a debtor for the collection of a claim that arose prior to the filing of the bankruptcy petition. The automatic stay also prohibits collection actions and proceedings directed toward property of the bankruptcy estate itself.
+
+In some courts, violations of the stay are treated as void ab initio as a matter of law, although the court may annul the stay to give effect to otherwise void acts. Other courts treat violations as voidable (not necessarily void ab initio).[28] Any violation of the stay may give rise to damages being assessed against the violating party.[29] Non-willful violations of the stay are often excused without penalty, but willful violators are liable for punitive damages and may also be found to be in contempt of court.
+
+A secured creditor may be allowed to take the applicable collateral if the creditor first obtains permission from the court. Permission is requested by a creditor by filing a motion for relief from the automatic stay. The court must either grant the motion or provide adequate protection to the secured creditor that the value of their collateral will not decrease during the stay.
+
+Without the bankruptcy protection of the automatic stay, creditors might race to the courthouse to improve their positions against a debtor. If the debtor's business were facing a temporary crunch, but were nevertheless viable in the long term, it might not survive a "run" by creditors. A run could also result in waste and unfairness among similarly situated creditors.
+
+Bankruptcy Code 362(d) gives 4 ways that a creditor can get the automatic stay removed.
+
+Avoidance actions
+Debtors, or the trustees that represent them, gain the ability to reject, or avoid actions taken with respect to the debtor's property for a specified time prior to the filing of the bankruptcy. While the details of avoidance actions are nuanced, there are three general categories of avoidance actions:
+
+Preferences: 11 U.S.C. § 547
+Federal fraudulent transfer: 11 U.S.C. § 548
+Non-bankruptcy law creditor: 11 U.S.C. § 544
+All avoidance actions attempt to limit the risk of the legal system accelerating the financial demise of a financially unstable debtor who has not yet declared bankruptcy. The bankruptcy system generally endeavors to reward creditors who continue to extend financing to debtors and discourage creditors from accelerating their debt collection efforts. Avoidance actions are some of the most obvious of the mechanisms to encourage this goal.
+
+Despite the apparent simplicity of these rules, a number of exceptions exist in the context of each category of avoidance action.
+
+Preferences
+Preference actions generally permit the trustee to avoid (that is, to void an otherwise legally binding transaction) certain transfers of the debtor's property that benefit creditors where the transfers occur on or within 90 days of the date of filing of the bankruptcy petition. For example, if a debtor has a debt to a friendly creditor and a debt to an unfriendly creditor, and pays the friendly creditor, and then declares bankruptcy one week later, the trustee may be able to recover the money paid to the friendly creditor under 11 U.S.C. § 547. While this "reach back" period typically extends 90 days backwards from the date of the bankruptcy, the amount of time is longer in the case of "insiders"—typically one year. Insiders include family and close business contacts of the debtor.
+
+Fraudulent transfer
+Bankruptcy fraudulent transfer law is similar in practice to non-bankruptcy fraudulent transfer law. Some terms, however, are more generous in bankruptcy than they are otherwise. For instance, the statute of limitations within bankruptcy is two years as opposed to a shorter time frame in some non-bankruptcy contexts. Generally a fraudulent transfer action operates in much the same way as a preference avoidance. Fraudulent transfer actions, however, sometimes require a showing of intent to shelter the property from a creditor.
+
+Generally, conversion of nonexempt assets into exempt assets on the eve of bankruptcy would not be indicia of fraud per se. However, depending on the amount of the exemption and the circumstances surrounding the conversion, a court may find the conversion to be a fraudulent transfer. This is especially true when the conversion amounts to nothing more than a temporary arrangement. The cases that held a conversion of nonexempt into exempt assets to be a fraudulent transfer tend to focus on the existence of an independent reason for the conversion. For example, if a debtor purchased a residence protected by a homestead exemption with the intent to reside in such residence that would be an allowable conversion into nonexempt property. But where the debtor purchased the residence with all of their available funds, leaving no money to live off, that presumed that the conversion was temporary, indicating a fraudulent transfer. The courts look at the timing of the transfer as the most important factor.
+
+Non-bankruptcy law creditor – "strong arm"
+The strong arm avoidance power stems from 11 U.S.C. § 544 and permits the trustee to exercise the rights that a debtor in the same situation would have under the relevant state law. Specifically, § 544(a) grants the trustee the rights of avoidance of (1) a judicial lien creditor, (2) an unsatisfied lien creditor, and (3) a bona fide purchaser of real property. In practice these avoidance powers often overlap with preference and fraudulent transfer avoidance powers.
+
+The creditors
+Secured creditors whose security interests survive the commencement of the case may look to the property that is the subject of their security interests, after obtaining permission from the court (in the form of relief from the automatic stay). Security interests, created by what are called secured transactions, are liens on the property of a debtor.
+
+Unsecured creditors are generally divided into two classes: unsecured priority creditors and general unsecured creditors. Unsecured priority creditors are further subdivided into classes as described in the law. In some cases the assets of the estate are insufficient to pay all priority unsecured creditors in full; in such cases the general unsecured creditors receive nothing.
+
+Because of the priority and rank ordering feature of bankruptcy law, debtors sometimes improperly collude with others (who may be related to the debtor) to prefer them, by for example granting them a security interest in otherwise unpledged assets. For this reason, the bankruptcy trustee is permitted to reverse certain transactions of the debtor within period of time prior to the date of bankruptcy filing. The time period varies depending on the relationship of the parties to the debtor and the nature of the transaction.
+
+In Chapters 7, 12, and 13, creditors must file a "proof of claim" to get paid. In a Chapter 11 case, a creditor is not required to file a proof of claim (that is, a proof of claim is "deemed filed") if the creditor's claim is listed on the debtor's bankruptcy schedules, unless the claim is scheduled as "disputed, contingent, or unliquidated".[30] If the creditor's claim is not listed on the schedules in a Chapter 11 case, the creditor must file a proof of claim.
+
+Executory contracts
+The bankruptcy trustee may reject certain executory contracts and unexpired leases.[31] For bankruptcy purposes, a contract is generally considered executory when both parties to the contract have not yet fully performed a material obligation of the contract.
+
+If the Trustee (or debtor in possession, in many chapter 11 cases) rejects a contract, the debtor's bankruptcy estate is subject to ordinary breach of contract damages, but the damages amount is an obligation and is generally treated as an unsecured claim.
+
+Committees
+Under some chapters, notably chapters 7, 9 and 11, committees of various stakeholders are appointed by the bankruptcy court. In Chapter 11 and 9, these committees consist of entities that hold the seven largest claims of the kinds represented by the committee. Other committees may also be appointed by the court.
+
+Committees have daily communications with the debtor and the debtor's advisers and have access to a wide variety of documents as part of their functions and responsibilities.
+
+Exempt property
+Although in theory all property of the debtor that is not excluded from the estate under the Bankruptcy Code becomes property of the estate (i.e., is automatically transferred from the debtor to the estate) at the time of commencement of a case, an individual debtor (not a partnership, corporation, etc.) may claim certain items of property as "exempt" and thereby keep those items (subject, however, to any valid liens or other encumbrances). An individual debtor may choose between a "federal" list of exemptions and the list of exemptions provided by the law of the state in which the debtor files the bankruptcy case unless the state in which the debtor files the bankruptcy case has enacted legislation prohibiting the debtor from choosing the exemptions on the federal list. Almost 40 states have done so. In states where the debtor is allowed to choose between the federal and state exemptions, the debtor has the opportunity to choose the exemptions that most fully benefit him or her and, in many cases, may convert at least some of his or her property from non-exempt form (e.g., cash) to exempt form (e.g., increased equity in a home created by using the cash to pay down a mortgage) prior to filing the bankruptcy case.
+
+The exemption laws vary greatly from state to state. In some states, exempt property includes equity in a home or car, tools of the trade, and some personal effects. In other states an asset class such as tools of trade will not be exempt by virtue of its class except to the extent it is claimed under a more general exemption for personal property.
+
+One major purpose of bankruptcy is to ensure orderly and reasonable management of debt. Thus, exemptions for personal effects are thought to prevent punitive seizures of items of little or no economic value (personal effects, personal care items, ordinary clothing), since this does not promote any desirable economic result. Similarly, tools of the trade may, depending on the available exemptions, be a permitted exemption as their continued possession allows the insolvent debtor to move forward into productive work as soon as possible.
+
+The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 placed pension plans not subject to the Employee Retirement Income Security Act of 1974 (ERISA), like 457 and 403(b) plans, in the same status as ERISA qualified plans with respect to having exemption status akin to spendthrift trusts. SEP-IRAs and SIMPLEs still are outside federal protection and must rely on state law.[32]
+
+Spendthrift trusts
+Most states have property laws that allow a trust agreement to contain a legally enforceable restriction on the transfer of a beneficial interest in the trust (sometimes known as an "anti-alienation provision"). The anti-alienation provision generally prevents creditors of a beneficiary from acquiring the beneficiary's share of the trust. Such a trust is sometimes called a spendthrift trust. To prevent fraud, most states allow this protection only to the extent that the beneficiary did not transfer property to the trust. Also, such provisions do not protect cash or other property once it has been transferred from the trust to the beneficiary. Under the U.S. Bankruptcy Code, an anti-alienation provision in a spendthrift trust is recognized. This means that the beneficiary's share of the trust generally does not become property of the bankruptcy estate.[33]
+
+Redemption
+In a Chapter 7 liquidation case, an individual debtor may redeem certain "tangible personal property intended primarily for personal, family, or household use" that is encumbered by a lien. To qualify, the property generally either (A) must be exempt under section 522 of the Bankruptcy Code, or (B) must have been abandoned by the trustee under section 554 of the Bankruptcy Code. To redeem the property, the debtor must pay the lienholder the full amount of the applicable allowed secured claim against the property.[34]
+
+Debtor's discharge
+Main article: Bankruptcy discharge
+Key concepts in bankruptcy include the debtor's discharge and the related "fresh start". Discharge is available in some but not all cases. For example, in a Chapter 7 case only an individual debtor (not a corporation, partnership, etc.) can receive a discharge.[35]
+
+The effect of a bankruptcy discharge is to eliminate only the debtor's personal liability,[36] not the in rem liability for a secured debt to the extent of the value of collateral. The term "in rem" essentially means "with respect to the thing itself" (i.e., the collateral). For example, if a debt in the amount of $100,000 is secured by property having a value of only $80,000, the $20,000 deficiency is treated, in bankruptcy, as an unsecured claim (even though it's part of a "secured" debt). The $80,000 portion of the debt is treated as a secured claim. Assuming a discharge is granted and none of the $20,000 deficiency is paid (e.g., due to insufficiency of funds), the $20,000 deficiency—the debtor's personal liability—is discharged (assuming the debt is not non-dischargeable under another Bankruptcy Code provision). The $80,000 portion of the debt is the in rem liability, and it is not discharged by the court's discharge order. This liability can presumably be satisfied by the creditor taking the asset itself. An essential concept is that when commentators say that a debt is "dischargeable", they are referring only to the debtor's personal liability on the debt. To the extent that a liability is covered by the value of collateral, the debt is not discharged.
+
+This analysis assumes, however, that the collateral does not increase in value after commencement of the case. If the collateral increases in value and the debtor (rather than the estate) keeps the collateral (e.g., where the asset is exempt or is abandoned by the trustee back to the debtor), the amount of the creditor's security interest may or may not increase. In situations where the debtor (rather than the creditor) is allowed to benefit from the increase in collateral value, the effect is called "lien stripping" or "paring down". Lien stripping is allowed only in certain cases depending on the kind of collateral and the particular chapter of the Code under which the discharge is granted.
+
+The discharge also does not eliminate certain rights of a creditor to setoff (or "offset") certain mutual debts owed by the creditor to the debtor against certain claims of that creditor against the debtor, where both the debt owed by the creditor and the claim against the debtor arose prior to the commencement of the case.[37]
+
+Not every debt may be discharged under every chapter of the Code. Certain taxes owed to Federal, state or local government, student loans, and child support obligations are not dischargeable. (Guaranteed student loans are potentially dischargeable, however, if debtor prevails in a difficult-to-win adversary proceeding against the lender commenced by a complaint to determine dischargeability. Also, the debtor can petition the court for a "financial hardship" discharge, but the grant of such discharges is rare.)
+
+The debtor's liability on a secured debt, such as a mortgage or mechanic's lien on a home, may be discharged. The effects of the mortgage or mechanic's lien, however, cannot be discharged in most cases if the lien affixed prior to filing. Therefore, if the debtor wishes to retain the property, the debt must usually be paid for as agreed. (See also lien avoidance, reaffirmation agreement) (Note: there may be additional flexibility available in Chapter 13 for debtors dealing with oversecured collateral such as a financed auto, so long as the oversecured property is not the debtor's primary residence.)
+
+Any debt tainted by one of a variety of wrongful acts recognized by the Bankruptcy Code, including defalcation, or consumer purchases or cash advances above a certain amount incurred a short time before filing, cannot be discharged. However, certain kinds of debt, such as debts incurred by way of fraud, may be dischargeable through the Chapter 13 super discharge. All in all, as of 2005, there are 19 general categories of debt that cannot be discharged in a Chapter 7 bankruptcy, and fewer debts that cannot be discharged under Chapter 13.
+
+Entities that cannot be debtors
+The section of the Bankruptcy code that governs which entities are permitted to file a bankruptcy petition is 11 U.S.C. § 109. Banks and other deposit institutions, insurance companies, railroads, and certain other financial institutions and entities regulated by the federal and state governments, and Private and Personal Trusts, except Statutory Business Trusts, as permitted by some States, cannot be a debtor under the Bankruptcy Code. Instead, special state and federal laws govern the liquidation or reorganization of these companies. In the U.S. context at least, it is incorrect to refer to a bank or insurer as being "bankrupt". The terms "insolvent", "in liquidation", or "in receivership" would be appropriate under some circumstances.
+
+Status of certain defined benefit pension plan liabilities in bankruptcy
+The Pension Benefit Guaranty Corporation (PBGC), a U.S. government corporation that insures certain defined benefit pension plan obligations, may assert liens in bankruptcy under either of two separate statutory provisions. The first is found in the Internal Revenue Code, at 26 U.S.C. § 412(n), which provides that liens held by the PBGC have the status of a tax lien. Under this provision, the unpaid mandatory pension contributions must exceed one million dollars for the lien to arise.[38]
+
+The second statute is 29 U.S.C. § 1368, under which a PBGC lien has the status of a tax lien in bankruptcy. Under this provision, the lien may not exceed 30% of the net worth of all persons liable under a separate provision, 29 U.S.C. § 1362(a).[39]
+
+In bankruptcy, PBGC liens (like Federal tax liens) generally are not valid against certain competing liens that were perfected before a notice of the PBGC lien was filed.[40]
+
+Bankruptcy costs
+In 2013, 91 percent of U.S. individuals filing bankruptcy hire an attorney to file their Chapter 7 petition.[41] The typical cost of an attorney was $1,170.[41] Alternatives to filing with an attorney are: filing pro se, meaning without an attorney, which requires an individual to fill out least sixteen separate forms,[42] hiring a petition preparer,[43] or using online software to generate the petition.
+
+The U.S. Bankruptcy Court also charges fees. The amounts of these fees vary depending on the Chapter of bankruptcy being filed. As of 2016, the filing fee is $335 for Chapter 7 and $310 for Chapter 13.[44] It is possible to apply for an installment payment plan in cases of financial hardship. Additional fees are charged for adding creditors after filing ($31), converting the case from one chapter to another ($10-$45), and reopening the case ($245 for Chapter 7 and $235 in Chapter 13).[45]
+
+Bankruptcy crimes
+In the United States, criminal provisions relating to bankruptcy fraud and other bankruptcy crimes are found in sections 151 through 158 of Title 18 of the United States Code.
+
+Bankruptcy fraud includes filing a bankruptcy petition or any other document in a bankruptcy case for the purpose of attempting to execute or conceal a scheme or artifice to defraud. Bankruptcy fraud also includes making a false or fraudulent representation, claim or promise in connection with a bankruptcy case, either before or after the commencement of the case, for the purpose of attempting to execute or conceal a scheme or artifice to defraud. Bankruptcy fraud is punishable by a fine, or by up to five years in prison, or both.[46]
+
+Knowingly and fraudulently concealing property of the estate from a custodian, trustee, marshal, or other court officer is a separate offense, and may also be punishable by a fine, or by up to five years in prison, or both. The same penalty may be imposed for knowingly and fraudulently concealing, destroying, mutilating, falsifying, or making a false entry in any books, documents, records, papers, or other recorded information relating to the property or financial affairs of the debtor after a case has been filed.[47]
+
+Certain offenses regarding fraud in connection with a bankruptcy case may also be classified as "racketeering activity" for purposes of the Racketeer Influenced and Corrupt Organizations Act (RICO).[48] Any person who receives income directly or indirectly derived from a "pattern" of such racketeering activity (generally, two or more offensive acts within a ten-year period) and who uses or invests any part of that income in the acquisition, establishment, or operation of any enterprise engaged in (or affecting) interstate or foreign commerce may be punished by up to twenty years in prison.[49]
+
+Bankruptcy crimes are prosecuted by the United States Attorney, typically after a reference from the United States Trustee, the case trustee, or a bankruptcy judge.
+
+Bankruptcy fraud can also sometimes lead to criminal prosecution in state courts, under the charge of theft of the goods or services obtained by the debtor for which payment, in whole or in part, was evaded by the fraudulent bankruptcy filing.
+
+Bankruptcy and federalism
+On January 23, 2006, the Supreme Court, in Central Virginia Community College v. Katz, declined to apply state sovereign immunity from Seminole Tribe v. Florida,[50] to defeat a trustee's action under 11 U.S.C. § 547 to recover preferential transfers made by a debtor to a state agency. The Court ruled that Article I, section 8, clause 4 of the U.S. Constitution (empowering Congress to establish uniform laws on the subject of bankruptcy) abrogates the state's sovereign immunity in suits to recover preferential payments.
+
+Social and economic factors
+In 2008, there were 1,117,771 bankruptcy filings in the United States courts. Of those, 744,424 were chapter 7 bankruptcies, while 362,762 were chapter 13.[51]
+
+Personal bankruptcy
+See also: Personal bankruptcy § United States
+[icon]
+This section needs expansion. You can help by adding to it. (October 2009)
+Personal bankruptcies may be caused by a number of factors. In 2008, over 96% of all bankruptcy filings were non-business filings, and of those, approximately two-thirds were chapter 7 cases.[51]
+
+Although the individual causes of bankruptcy are complex and multifaceted, the majority of personal bankruptcies involve substantial medical bills.[52][53] Personal bankruptcies are typically filed under Chapter 7 or Chapter 13. Personal Chapter 11 bankruptcies are relatively rare. The American Journal of Medicine says over 3 out of 5 personal bankruptcies are due to medical debt.[54]
+
+There were 175,146 individual bankruptcies filed in the United States during the first quarter of 2020. Some 66.5 percent were directly tied to medical issues. Critical illness insurance Association report June 2, 2020
+
+Corporate bankruptcy
+Corporate bankruptcy can arise as a result of two broad categories—business failure or financial distress. Business failure stems from flaws in the company's business model that prohibit it from producing the necessary level of profit to justify its capital investment. Conversely, financial distress stems from flaws in the way the company is financed or its capital structure. Continued financial distress leads to either technical insolvency (assets outweigh liabilities, but the firm is unable to meet current obligations) or bankruptcy (liabilities outweigh assets, and the firm has a negative net worth). A company experiencing business failure can stave off bankruptcy as long as it has access to funding; conversely, a company that is experiencing financial failure will be pushed into bankruptcy regardless of the soundness of its business model. The actual causes of corporate bankruptcies are difficult to establish, due to the compounding effects of external (macroeconomic, industry) and internal (business or financial) factors. However, some studies have indicated that financial leverage and working capital mismanagement are likely two of the major causes of corporate failure and bankruptcy in the US.[55]
+
+Largest bankruptcies
+The largest bankruptcy in U.S. history occurred on September 15, 2008, when Lehman Brothers Holdings Inc. filed for Chapter 11 protection with more than $639 billion in assets.[56]
