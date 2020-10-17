@@ -3,7 +3,7 @@
 ## Prerequisites
 - pip install -r requirments.txt
 - python version 3.7.7
-- graph drawing tool : gepgi (https://gephi.org/)
+- graph drawing tool : gephi (https://gephi.org/)
 
 ## Data
 - Doc 1(data1.txt) : https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers
